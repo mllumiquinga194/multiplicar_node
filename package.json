@@ -1,0 +1,16 @@
+{
+  "name": "3-bases-node",
+  "version": "2.0.0",
+  "description": "esta es una aplicacion del inea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Llumiquinga",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}

@@ -11,7 +11,6 @@ console.log('Limite: ', argv.limite);
 let comando = argv._[0];
 console.log(comando);
 
-
 switch (comando) {
     case 'listar':
         listarTabla(argv.base, argv.limite);
